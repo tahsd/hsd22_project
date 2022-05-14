@@ -33,13 +33,13 @@ Relevant materials will be uploaded on eTL soon.
 ## 1. Prepare your bitstream file
 You need a bitstream file that you have generated with the block design that includes your IP.  
 You just have to replace the custom IP of the block design in lab10 with your MM(Matrix-Matrix) PE controller.  
-How the PE controller should be designed is explained [here.](preview)  
+How the PE controller should be designed is explained [here.](http://etl.snu.ac.kr/mod/ubboard/article.php?id=1850221&bwid=2905926)  
 
 
 ## 2. Boot your device with the bitstream file
 Once you are prepared with the bistream file, rename it to "zynq.bit", and move it to the sdcard.  
 Insert the sdcard to the device and boot it.  
-How you can boot your device via minicom is explained [here.](week8)
+How you can boot your device via minicom is explained [here.](http://etl.snu.ac.kr/mod/ubboard/article.php?id=1850221&bwid=2878954)
 
   
 ## 3. (Optional) Download the repository 
